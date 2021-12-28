@@ -1,6 +1,6 @@
 # Basic instruction
 Sometimes, you will need to remove some code in your app many times.
-This is often happens when you want to release two or more version of apps. 
+This is often happening when you want to release two or more version of apps. 
 
 Thus, you will need this tool to help you do your job easier. 
 
